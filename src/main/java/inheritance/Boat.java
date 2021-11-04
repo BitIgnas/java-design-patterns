@@ -9,7 +9,7 @@ public class Boat extends Vehicle {
 
     @Override
     void move() {
-
+        System.out.println("Boat is moving");
     }
 
     @Override
@@ -19,6 +19,6 @@ public class Boat extends Vehicle {
 
     @Override
     void stop() {
-
+        System.out.println("Boat is stopping");
     }
 }

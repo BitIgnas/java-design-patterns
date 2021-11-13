@@ -21,4 +21,6 @@ public class Boat extends Vehicle {
     void stop() {
         System.out.println("Boat is stopping");
     }
+
+
 }
